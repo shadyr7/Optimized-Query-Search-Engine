@@ -1,0 +1,21 @@
+QUERY ENGINE EXECUTION SUMMARY 
+============================= 
+Timestamp: 17:12:45 
+ 
+[query4] 
+Status: SUCCESS 
+Execution time: 33s 
+ 
+C:\Users\addys\OneDrive\Desktop\e6data>run.bat query1
+query1: 27s - SUCCESS
+
+C:\Users\addys\OneDrive\Desktop\e6data>run.bat query2
+query2: 34s - SUCCESS
+
+C:\Users\addys\OneDrive\Desktop\e6data>run.bat query3
+query3: 33s - SUCCESS
+
+C:\Users\addys\OneDrive\Desktop\e6data>run.bat query4
+query4: 33s - SUCCESS
+
+C:\Users\addys\OneDrive\Desktop\e6data>

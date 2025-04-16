@@ -1,0 +1,5 @@
+Query 1: Total Number of Trips
+Total Trips: 20332093
+Approximate: 20.33 million
+
+Execution Time: 27.35 seconds

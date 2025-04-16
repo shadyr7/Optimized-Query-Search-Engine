@@ -1,0 +1,5 @@
+VendorID,trips,avg_passengers
+1,10104,1.212292
+2,1232,1.224026
+
+Execution Time: 32.56 seconds
